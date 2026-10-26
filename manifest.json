@@ -1,0 +1,116 @@
+{
+  "edition": "Undertale Yellow: Shades of Justice",
+  "compression": "gzip",
+  "uncompressedBytes": 248695693,
+  "sha256": "37aef6523476b3600f5866b1b9fedb48d35fd77928cb32c29671cf27e2006d53",
+  "parts": [
+    {
+      "path": "game-01.gz.bin",
+      "bytes": 10485760,
+      "sha256": "c5fdbb8b40368853446d5335d5b0acd7166fa8874dbf07418ae2a0b8755e4f6f",
+      "url": "https://cdn.jsdelivr.net/gh/sektanaymikon/undertale-yellow-web@7b328acb9f844a419805281008b50ba371cec0c5/game-01.gz.bin"
+    },
+    {
+      "path": "game-02.gz.bin",
+      "bytes": 10485760,
+      "sha256": "2ea9fdfe1c32f1bc1f368726fb0a97600731a72996cce8ea2b7aaa0a5370215f",
+      "url": "https://cdn.jsdelivr.net/gh/sektanaymikon/undertale-yellow-web@7b328acb9f844a419805281008b50ba371cec0c5/game-02.gz.bin"
+    },
+    {
+      "path": "game-03.gz.bin",
+      "bytes": 10485760,
+      "sha256": "bba1eb8454b4d0b007afd28d3bda39fa040f062b8c56be3239021a24ee6a5432",
+      "url": "https://cdn.jsdelivr.net/gh/sektanaymikon/undertale-yellow-web@7b328acb9f844a419805281008b50ba371cec0c5/game-03.gz.bin"
+    },
+    {
+      "path": "game-04.gz.bin",
+      "bytes": 10485760,
+      "sha256": "c9b56164724a3b4a153f594cb91ed839468941d326e1bde4a7236756e592fabd",
+      "url": "https://cdn.jsdelivr.net/gh/sektanaymikon/undertale-yellow-web@7b328acb9f844a419805281008b50ba371cec0c5/game-04.gz.bin"
+    },
+    {
+      "path": "game-05.gz.bin",
+      "bytes": 10485760,
+      "sha256": "ccad9f56e66d86446e2092e36338d8d5a339ecdef53c0113c5301b07b9f0fa2d",
+      "url": "https://cdn.jsdelivr.net/gh/sektanaymikon/undertale-yellow-web@ccc63e99f8e93d4a79a7e052e07897ba0fbf00d9/game-05.gz.bin"
+    },
+    {
+      "path": "game-06.gz.bin",
+      "bytes": 10485760,
+      "sha256": "94dc5a786438763075361131582277f58c2bd4d142f2992c97cd52727dbf32a9",
+      "url": "https://cdn.jsdelivr.net/gh/sektanaymikon/undertale-yellow-web@ccc63e99f8e93d4a79a7e052e07897ba0fbf00d9/game-06.gz.bin"
+    },
+    {
+      "path": "game-07.gz.bin",
+      "bytes": 10485760,
+      "sha256": "7028adcc58a6c6b1d39c102d1e3ba2fd74d55757a9a72e82611021e39ff8a452",
+      "url": "https://cdn.jsdelivr.net/gh/sektanaymikon/undertale-yellow-web@ccc63e99f8e93d4a79a7e052e07897ba0fbf00d9/game-07.gz.bin"
+    },
+    {
+      "path": "game-08.gz.bin",
+      "bytes": 10485760,
+      "sha256": "62cc257cb24ef047c69455ad161ddf65f33dc0eac51a5e770e047b5d248df071",
+      "url": "https://cdn.jsdelivr.net/gh/sektanaymikon/undertale-yellow-web@ccc63e99f8e93d4a79a7e052e07897ba0fbf00d9/game-08.gz.bin"
+    },
+    {
+      "path": "game-09.gz.bin",
+      "bytes": 10485760,
+      "sha256": "eaeaf293f2546b942f63482b216a7d762fd7c922b3f22cf506971ef1c814c6d9",
+      "url": "https://cdn.jsdelivr.net/gh/sektanaymikon/undertale-yellow-web@6e45120285781cea253c8f548c97084e59a84361/game-09.gz.bin"
+    },
+    {
+      "path": "game-10.gz.bin",
+      "bytes": 10485760,
+      "sha256": "d310c4dcc389a00366a6385cdf97a25dd4d2bac54ff45b4543d1469bedbd8a13",
+      "url": "https://cdn.jsdelivr.net/gh/sektanaymikon/undertale-yellow-web@6e45120285781cea253c8f548c97084e59a84361/game-10.gz.bin"
+    },
+    {
+      "path": "game-11.gz.bin",
+      "bytes": 10485760,
+      "sha256": "2ca65fafe79a92621724af5b5055879f98ddb1b32c31342c61b8fca4feda09c8",
+      "url": "https://cdn.jsdelivr.net/gh/sektanaymikon/undertale-yellow-web@6e45120285781cea253c8f548c97084e59a84361/game-11.gz.bin"
+    },
+    {
+      "path": "game-12.gz.bin",
+      "bytes": 10485760,
+      "sha256": "014d636df2cfba8184d5fc1f5a310968061ca6ddf027876a8a1d34668dc6d549",
+      "url": "https://cdn.jsdelivr.net/gh/sektanaymikon/undertale-yellow-web@6e45120285781cea253c8f548c97084e59a84361/game-12.gz.bin"
+    },
+    {
+      "path": "game-13.gz.bin",
+      "bytes": 10485760,
+      "sha256": "ba324267f448eab8f897adf97976065ae1bb49b7e71e822db1208a2b99f0afb1",
+      "url": "https://cdn.jsdelivr.net/gh/sektanaymikon/undertale-yellow-web@18b3ad2e3faa528c620db98d8e85a63e0276a8f0/game-13.gz.bin"
+    },
+    {
+      "path": "game-14.gz.bin",
+      "bytes": 10485760,
+      "sha256": "5c25d7c17afeec759ba31590e5efbe97a3d845071f208aa6b9cfc9ab303debf8",
+      "url": "https://cdn.jsdelivr.net/gh/sektanaymikon/undertale-yellow-web@18b3ad2e3faa528c620db98d8e85a63e0276a8f0/game-14.gz.bin"
+    },
+    {
+      "path": "game-15.gz.bin",
+      "bytes": 10485760,
+      "sha256": "d1b0c46f15a3f4952da2ed8c661b815f71022b463da72f4c1c49cd1e6d00061d",
+      "url": "https://cdn.jsdelivr.net/gh/sektanaymikon/undertale-yellow-web@18b3ad2e3faa528c620db98d8e85a63e0276a8f0/game-15.gz.bin"
+    },
+    {
+      "path": "game-16.gz.bin",
+      "bytes": 10485760,
+      "sha256": "0157ccc511f0a6d4c57a5b0206d37e5a550e4c86c83df4bd26e6254d594d573d",
+      "url": "https://cdn.jsdelivr.net/gh/sektanaymikon/undertale-yellow-web@18b3ad2e3faa528c620db98d8e85a63e0276a8f0/game-16.gz.bin"
+    },
+    {
+      "path": "game-17.gz.bin",
+      "bytes": 10485760,
+      "sha256": "0cb837d5ee1e8302693f05a953c081150f43c4275af79441a427b7ad6545ab6a",
+      "url": "https://cdn.jsdelivr.net/gh/sektanaymikon/undertale-yellow-web@20e76796d6cca88b6ed383ff81010c86148a1ce9/game-17.gz.bin"
+    },
+    {
+      "path": "game-18.gz.bin",
+      "bytes": 7326281,
+      "sha256": "6b48b6575b001c67d074c89624b2f9b3e9229d33a69d8014b8e727d02e788c8e",
+      "url": "https://cdn.jsdelivr.net/gh/sektanaymikon/undertale-yellow-web@20e76796d6cca88b6ed383ff81010c86148a1ce9/game-18.gz.bin"
+    }
+  ]
+}

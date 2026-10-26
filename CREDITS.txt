@@ -1,0 +1,7 @@
+UNDERTALE YELLOW by Team UTY.
+Undertale characters and concepts by Toby Fox and contributors.
+Shades of Justice by ZenderTroop; original in-game credits are preserved.
+Existing browser runner/build by burnedpopcorn, mirrored by genizy.
+Upstream: https://github.com/genizy/web-port/tree/main/undertale-yellow
+Snowdin collision compatibility fix and CodeHS wrapper: MIMIC765/Sekta.
+Font: Press Start 2P, SIL Open Font License (FONT-LICENSE.txt).
