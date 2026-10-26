@@ -1,0 +1,93 @@
+{
+  "originalSha256": "fb081fb279bb3a3810f6cf0584b1ddb535b2e6b60f930ba938356da98495aae6",
+  "patchedSha256": "37aef6523476b3600f5866b1b9fedb48d35fd77928cb32c29671cf27e2006d53",
+  "bytes": 248695693,
+  "changes": [
+    {
+      "object": "obj_molten_rock_snowdin_19",
+      "field": "physicsCollisionGroup",
+      "offset": 6424476,
+      "before": 0,
+      "after": 1
+    },
+    {
+      "object": "obj_snowdin_19_piston",
+      "field": "physicsCollisionGroup",
+      "offset": 6422860,
+      "before": 0,
+      "after": 1
+    },
+    {
+      "object": "obj_puzzle_collider_snowdin_19",
+      "field": "physicsCollisionGroup",
+      "offset": 6424236,
+      "before": 0,
+      "after": 1
+    },
+    {
+      "object": "obj_molten_rock_snowdin_19",
+      "field": "physicsVertex[0]",
+      "offset": 6424504,
+      "before": [
+        -8.0,
+        -8.0
+      ],
+      "after": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object": "obj_snowdin_19_piston",
+      "field": "physicsVertex[0]",
+      "offset": 6422888,
+      "before": [
+        -18.0,
+        -5.125
+      ],
+      "after": [
+        -9.0,
+        -1.125
+      ]
+    },
+    {
+      "object": "obj_snowdin_19_piston",
+      "field": "physicsVertex[1]",
+      "offset": 6422896,
+      "before": [
+        0.75,
+        -5.125
+      ],
+      "after": [
+        9.75,
+        -1.125
+      ]
+    },
+    {
+      "object": "obj_snowdin_19_piston",
+      "field": "physicsVertex[2]",
+      "offset": 6422904,
+      "before": [
+        0.75,
+        -1.875
+      ],
+      "after": [
+        9.75,
+        2.125
+      ]
+    },
+    {
+      "object": "obj_snowdin_19_piston",
+      "field": "physicsVertex[3]",
+      "offset": 6422912,
+      "before": [
+        -18.0,
+        -1.875
+      ],
+      "after": [
+        -9.0,
+        2.125
+      ]
+    }
+  ]
+}
