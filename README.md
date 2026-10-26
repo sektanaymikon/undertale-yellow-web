@@ -25,3 +25,5 @@ The main branch contains the HTML launcher, runtime, font/license, and pinned ma
 Use the supplied small Undertale-Yellow-CodeHS-index.txt as CodeHS index.html. It loads the launcher directly into the CodeHS page. The first game download is approximately 186 MB, hosted externally. Saves use the browser runner's existing local save storage and stay tied to the page's origin.
 
 The bottom-right port credit remains inside the fullscreen wrapper, at 50% opacity, with pointer input disabled. Original game-author credits are preserved.
+
+This port uses the special two-line watermark explicitly approved by the user for Undertale Yellow only: `* Port by Genizy, fix by` / `MIMIC765/Sekta`. It remains small, white, at 50% opacity, and visible in fullscreen.
